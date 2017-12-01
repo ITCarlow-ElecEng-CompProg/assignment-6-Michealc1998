@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1507736417 source:c:\users\stany\desktop\ee yr 2\computer programming\lab 6\lab 6\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1509536880 source:g:\year 2\computer programming\semester 1\lab exercises\ex_6 - decimal,binary numbering system conversion\lab 6\lab 6\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1509996360 source:g:\year 2\computer programming\semester 1\lab exercises\ex_6 - decimal,binary numbering system conversion\ex_6\lab 6\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1509996360 source:d:\year 2\computer programming\semester 1\lab exercises\ex_6 - decimal,binary numbering system conversion\ex_6\lab 6\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
